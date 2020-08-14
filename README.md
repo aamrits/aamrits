@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript and React 🤣
 - 👯 I’m looking to learn and get better everyday
 - 🥅 2020 Goals: Do more coding
-- ⚡ Fun fact: I a movie buff
+- ⚡ Fun fact: I'm a movie buff
 
 ### Connect with me:
 
