@@ -1,4 +1,4 @@
-### Hi there, I'm Amrit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello Everyone, I'm Amrit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Coder, Silent Listener, Dreamer and a Movie Buff!
 
@@ -7,6 +7,14 @@
 - 👯 Growth is a continuous process, so keep learning
 - 🥅 2020 Goals: Do more coding and be a better version of me
 - ⚡ Fun fact: I'm a movie buff (Also FRIENDS / The Big Bang Theory admirer)
+
+📚 My Journey:
+5 years of experience [ e-commerce and Media and Entertainment sectors ].
+
+👨‍💻 Tech stack:
+I am a JavaScript enthusiast and this is the language I have chosen as my career path.
+I am also very passionate towards developing responsive web pages using HTML5, CSS3, Flexbox/Grid.
+
 
 ### Connect with me:
 
@@ -27,6 +35,7 @@
 <img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Docker" title="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />
 
 
 
