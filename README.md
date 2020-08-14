@@ -2,7 +2,7 @@
 
 ## I'm a Coder, Silent Listener, Blogger, Dreamer, Movie Buff and an Unpoetical Poet!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a something cool!
 - 🌱 I’m currently learning JavaScript and React 🤣
 - 👯 I’m looking to learn and get better everyday
 - 🥅 2020 Goals: Do more coding
@@ -56,6 +56,8 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="aamrit's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aamrits&show_icons=true&hide_border=true" />
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamrits&layout=compact)](https://github.com/aamrits)
 
 </details>
 
