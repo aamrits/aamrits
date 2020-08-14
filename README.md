@@ -2,11 +2,11 @@
 
 ## I'm a Coder, Silent Listener, Dreamer and a Movie Buff!
 
-- 🔭 I’m currently working on a something cool!
-- 🌱 I’m currently learning JavaScript and React 🤣
-- 👯 I’m looking to learn and get better everyday
-- 🥅 2020 Goals: Do more coding
-- ⚡ Fun fact: I'm a movie buff
+- 🔭 I’m currently working as a Frontend Developer!
+- 🌱 I’m learning JavaScript and React 🤣
+- 👯 Growth is a continuous process, so keep learning
+- 🥅 2020 Goals: Do more coding and be a better version of me
+- ⚡ Fun fact: I'm a movie buff (Also FRIENDS / The Big Bang Theory admirer)
 
 ### Connect with me:
 
