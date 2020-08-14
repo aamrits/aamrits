@@ -2,16 +2,16 @@
 
 ## I'm a Coder, Silent Listener, Dreamer and a Movie Buff!
 
-- 🔭 I’m currently working as a Frontend Developer!
-- 🌱 I’m learning JavaScript and React 🤣
-- 👯 Growth is a continuous process, so keep learning
-- 🥅 2020 Goals: Do more coding and be a better version of me
-- ⚡ Fun fact: I'm a movie buff (Also FRIENDS / The Big Bang Theory admirer)
+🔭 I’m currently working as a Frontend Developer! <br/>
+🌱 I’m learning JavaScript and React 🤣 <br/>
+👯 Growth is a continuous process, so keep learning <br/>
+🥅 2020 Goals: Do more coding and be a better version of me <br/>
+⚡ Fun fact: I'm a movie buff (Also FRIENDS / The Big Bang Theory admirer) <br/>
 
-📚 My Journey:
+📚 My Journey:<br/>
 5 years of experience [ e-commerce and Media and Entertainment sectors ].
 
-👨‍💻 Tech stack:
+👨‍💻 Tech stack:<br/>
 I am a JavaScript enthusiast and this is the language I have chosen as my career path.
 I am also very passionate towards developing responsive web pages using HTML5, CSS3, Flexbox/Grid.
 
