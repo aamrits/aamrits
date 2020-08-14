@@ -1,6 +1,6 @@
 ### Hi there, I'm Amrit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Coder, Silent Listener, Blogger, Dreamer, Movie Buff and an Unpoetical Poet!
+## I'm a Coder, Silent Listener, Dreamer and a Movie Buff!
 
 - 🔭 I’m currently working on a something cool!
 - 🌱 I’m currently learning JavaScript and React 🤣
