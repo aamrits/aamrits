@@ -3,10 +3,10 @@
 ## I'm a Coder, Silent Listener, Blogger, Dreamer, Movie Buff and an Unpoetical Poet!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning JavaScript and React 🤣
+- 👯 I’m looking to learn and get better everyday
+- 🥅 2020 Goals: Do more coding
+- ⚡ Fun fact: I a movie buff
 
 ### Connect with me:
 
@@ -34,11 +34,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerize an angular 10 app](https://medium.com/codingandlearning/dockerize-an-angular-10-app-c7fb5f179ad1?source=rss-e4e2d5c2a0b4------2)
-- [My VSCode Setup](https://medium.com/codingandlearning/my-vscode-setup-b5d34d1bcbd8?source=rss-e4e2d5c2a0b4------2)
-- [Array Methods — flat(), flatMap(), reduceRight(), copyWithin(), from()](https://medium.com/codingandlearning/array-methods-flat-flatmap-reduceright-copywithin-from-241f42e500f0?source=rss-e4e2d5c2a0b4------2)
-- [Looping in Objects and Arrays](https://medium.com/codingandlearning/looping-in-objects-and-arrays-7f44e91e98e9?source=rss-e4e2d5c2a0b4------2)
-- [Installing the latest stable version of node in Ubuntu](https://medium.com/codingandlearning/installing-the-latest-stable-version-of-node-in-ubuntu-d8c7fdcea2a6?source=rss-e4e2d5c2a0b4------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/codingandlearning)
