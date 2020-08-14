@@ -1,4 +1,4 @@
-### Hi there, I'm Amrit - aka [aamrits][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Amrit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Coder, Silent Listener, Blogger, Dreamer, Movie Buff and an Unpoetical Poet!
 
