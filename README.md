@@ -56,8 +56,8 @@ I am also very passionate towards developing responsive web pages using HTML5, C
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="aamrit's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aamrits&show_icons=true&hide_border=true" />
+  
+  <img align="left" alt="aamrit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aamrits&&show_icons=true&hide_border=true" />
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamrits&layout=compact)](https://github.com/aamrits)
 
