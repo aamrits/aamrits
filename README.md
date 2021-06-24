@@ -4,7 +4,7 @@
 
 🔭 I’m currently working as a Frontend Developer! <br/>
 👉 JavaScript and React enthusiast. 🤣 <br/>
-❤️ Particular interest in developing responsive UI web pages.
+❤️ Particular interest in developing responsive UI web pages. <br/>
 💪 Growth is a continuous process, so keep learning <br/>
 🌱 Goals: Do more coding (problem-solving) and be a better version of me <br/>
 ⚡ Fun fact: I'm a movie buff (Also FRIENDS / The Big Bang Theory admirer) <br/>
