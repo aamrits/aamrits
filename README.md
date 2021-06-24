@@ -3,18 +3,15 @@
 ## I'm a Coder, Silent Listener, Dreamer and a Movie Buff!
 
 🔭 I’m currently working as a Frontend Developer! <br/>
-🌱 I’m learning JavaScript and React 🤣 <br/>
-👯 Growth is a continuous process, so keep learning <br/>
-🥅 2020 Goals: Do more coding and be a better version of me <br/>
+👉 JavaScript and React enthusiast. 🤣 <br/>
+❤️ Particular interest in developing responsive UI web pages.
+💪 Growth is a continuous process, so keep learning <br/>
+🌱 Goals: Do more coding (problem-solving) and be a better version of me <br/>
 ⚡ Fun fact: I'm a movie buff (Also FRIENDS / The Big Bang Theory admirer) <br/>
-
-📚 My Journey:<br/>
-5 years of experience [ e-commerce and Media and Entertainment sectors ].
 
 👨‍💻 Tech stack:<br/>
 I am a JavaScript enthusiast and this is the language I have chosen as my career path.
-I am also very passionate towards developing responsive web pages using HTML5, CSS3, Flexbox/Grid.
-
+I am also very passionate towards developing responsive web pages using HTML5, CSS3, Flexbox/Grid. <br/>
 
 ### Connect with me:
 
@@ -28,17 +25,13 @@ I am also very passionate towards developing responsive web pages using HTML5, C
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Angular" title="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Nest.js" title="Nest.js" width="26px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" title="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />
-
-
 
 <br />
 <br />
