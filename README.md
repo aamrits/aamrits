@@ -9,11 +9,7 @@
 🌱 Goals: Do more coding (problem-solving) and be a better version of me <br/>
 ⚡ Fun fact: I'm a movie buff (Also FRIENDS / The Big Bang Theory admirer) <br/>
 
-👨‍💻 Tech stack:<br/>
-I am a JavaScript enthusiast and this is the language I have chosen as my career path.
-I am also very passionate towards developing responsive web pages using HTML5, CSS3, Flexbox/Grid. <br/>
-
-### Languages and Tools:
+### Tech stack:
 
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
