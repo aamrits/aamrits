@@ -38,8 +38,6 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<br />
-
 <h3>Where to find me</h3>
 <p><a href="https://github.com/aamrits" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/amrit-gandhi-b9b8416a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@aamrits" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
@@ -58,7 +56,13 @@
 
 ➡️ [more blog posts...](https://medium.com/codingandlearning)
 
-<details>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+⚡ my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aamrits&show_icons=true&theme=gotham" alt="aamrits" />
+
+<!-- <details>
   <summary>:zap: Github Stats</summary>
   
   <img align="left" alt="aamrit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aamrits&&show_icons=true&hide_border=true" />
@@ -68,4 +72,4 @@
 </details>
 
 [website]: https://medium.com/codingandlearning
-[linkedin]: https://www.linkedin.com/in/amrit-gandhi-b9b8416a/
+[linkedin]: https://www.linkedin.com/in/amrit-gandhi-b9b8416a/ -->
