@@ -23,8 +23,6 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
@@ -62,14 +60,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aamrits&show_icons=true&theme=gotham" alt="aamrits" />
 
-<!-- <details>
-  <summary>:zap: Github Stats</summary>
-  
-  <img align="left" alt="aamrit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aamrits&&show_icons=true&hide_border=true" />
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamrits&layout=compact)](https://github.com/aamrits)
-
-</details>
-
-[website]: https://medium.com/codingandlearning
-[linkedin]: https://www.linkedin.com/in/amrit-gandhi-b9b8416a/ -->
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
