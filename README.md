@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" Hello there! I'm Amrit </h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there! I'm Amrit </h1>
 
 <h3 align="left">I'm a Coder, Silent Listener, Dreamer and a Movie Buff!</h3>
 
