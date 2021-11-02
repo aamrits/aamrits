@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there! I'm Amrit </h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello there! I'm Amrit </h1>
 
 <h3 align="left">I'm a Coder, Silent Listener, Dreamer and a Movie Buff!</h3>
 
@@ -11,12 +11,14 @@
   </a>
 </p>
 
-- 🔭 I’m currently working as a Software Developer in Bengaluru, India. <br/>
+- 🔭 I’m currently working as a Software Developer in Bengaluru, India.
 - 😄 Pronouns: He / Him
-- 🌱 Currently learning JavaScript and React. <br />
-- ❤️ Particular interest in developing responsive UI web pages. <br/>
-- 👉 Growth is a continuous process, so keep learning <br/>
-- ⚡ Fun fact: The acronym of my name becomes AAG, meaning FIRE 🔥, which interestingly resembles 33% of my personality <br/>
+- 🌱 Currently learning JavaScript and React.
+- ❤️ Particular interest in developing responsive UI web pages.
+- 👉 Growth is a continuous process, so keep learning.
+- ⚡ Fun fact: The acronym of my name becomes AAG, meaning FIRE 🔥, which interestingly resembles 33% of my personality.
+
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="500" />
 
 <h3>Favorite Tech</h3>
 
@@ -57,4 +59,3 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aamrits&show_icons=true&theme=gotham" alt="aamrits" />
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
