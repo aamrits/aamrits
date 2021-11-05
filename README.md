@@ -6,9 +6,9 @@
   <a href="https://github.com/aamrits/aamrits">
     <img src="https://komarev.com/ghpvc/?username=aamrits" alt="page views" />
   </a>
-  <a href="https://github.com/aamrits?tab=followers">
+<!--   <a href="https://github.com/aamrits?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/aamrits?color=green&logo=github">
-  </a>
+  </a> -->
 </p>
 
 - 🔭 I’m currently working as a Software Developer in Bengaluru, India.
