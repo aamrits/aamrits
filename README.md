@@ -55,7 +55,5 @@
 
 ➡️ [more blog posts...](https://medium.com/codingandlearning)
 
-⚡ my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aamrits&show_icons=true&theme=gotham" alt="aamrits" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamrits&theme=radical" alt="aamrits" />
 
