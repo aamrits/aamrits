@@ -25,9 +25,8 @@
 - ⚡ Fun fact: The acronym of my name becomes AAG, meaning FIRE 🔥, which interestingly resembles 33% of my personality.
 
 <!-- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="500" /> -->
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" style="margin-top: 15px" />
-
 <h3>Technology Stack</h3>
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" top="20" />
 
 > Tools, languages, and other things that I like to work with.
 
