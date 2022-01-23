@@ -6,7 +6,7 @@
   <a href="https://github.com/aamrits" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
-<h3 align="left">I am a Frontend Engineer with particular interest in designing responsive web pages.</h3>
+<h3 align="left">I am a Frontend Engineer with particular interest in developing Web Applications.</h3>
 
 <p align="left">
   <a href="https://github.com/aamrits/aamrits">
