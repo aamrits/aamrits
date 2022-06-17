@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello there! I'm Amrit </h1>
+<h1 align="left">Hello there! I'm Amrit 👋</h1>
 
 <p> 
   <a href="https://www.linkedin.com/in/amrit-gandhi-b9b8416a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
