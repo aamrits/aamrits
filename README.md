@@ -60,5 +60,5 @@
 - [Dockerize an angular 10 app](https://aamrits.hashnode.dev/dockerize-an-angular-10-app)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/codingandlearning)
+➡️ [more blog posts...](https://aamrits.hashnode.dev/)
 
