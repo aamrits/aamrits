@@ -46,19 +46,3 @@
 </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamrits&theme=radical" alt="aamrits" />
-  
-<h3> 📕 Latest Blog Posts </h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [My VSCode Setup &lpar;simple and catchy&rpar;](https://aamrits.hashnode.dev/my-vscode-setup-simple-and-catchy)
-- [Array Methods — flat&lpar;&rpar;, flatMap&lpar;&rpar;, reduceRight&lpar;&rpar;, copyWithin&lpar;&rpar;, from&lpar;&rpar;](https://aamrits.hashnode.dev/array-methods-flat-flatmap-reduceright-copywithin-from)
-- [Looping through Objects and Arrays in JavaScript](https://aamrits.hashnode.dev/looping-through-objects-and-arrays-in-javascript)
-- [Deep and Shallow copy in JavaScript](https://aamrits.hashnode.dev/deep-and-shallow-copy-in-javascript)
-- [Some useful CSS questions with answers](https://aamrits.hashnode.dev/some-useful-css-questions-with-answers)
-- [Some useful HTML5 questions with answers](https://aamrits.hashnode.dev/some-useful-html5-questions-with-answers)
-- [Understanding Promises](https://aamrits.hashnode.dev/understanding-promises)
-- [Dockerize an angular 10 app](https://aamrits.hashnode.dev/dockerize-an-angular-10-app)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://aamrits.hashnode.dev/)
-
