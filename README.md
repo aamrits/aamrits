@@ -1,4 +1,4 @@
-<h1 align="left">Hello there! Thanks for visiting my Page 👋</h1>
+<h1 align="left">Hello there! Thanks for visiting my page 👋</h1>
 
 <p align="left"> I am known by the name Amrit. I'm a Frontend Developer, currently living in India.</p>
 <!-- <p align="left">
