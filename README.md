@@ -1,23 +1,5 @@
-<h1 align="left">Hello there! Thanks for visiting my page 👋</h1>
 
-<p align="left"> I am known by the name Amrit. I'm a Frontend Developer, currently living in India.</p>
-<!-- <p align="left">
-  <a href="https://github.com/aamrits/aamrits">
-    <img src="https://komarev.com/ghpvc/?username=aamrits" alt="page views" />
-  </a>
-  <a href="https://github.com/aamrits?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/aamrits?color=green&logo=github">
-  </a>
-</p> -->
-
-<!-- <h3>Something about me</h3>
-- 🔭 I am a JavaScript Developer, experienced in working with React.
-- 🌱 Currently learning JavaScript and React.
-- ❤️ I love writing poems in my pastime.
-- 👉 Growth is a continuous process, so keep learning.
-- ⚡ Fun fact: The acronym of my name becomes AAG, meaning FIRE 🔥, which interestingly resembles 33% of my personality. -->
-
-<h3>Things I code with</h3>
+<!-- <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
@@ -35,10 +17,46 @@
 </p>
 <p>
   <img align="" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" top="20" />
-</p>
+</p> -->
 
-<h3>Where to find me</h3>
+
+
+Hi, I’m Amrit 👋
+
+Frontend Engineer • React Specialist • UI-Focused Problem Solver  
+
+I’m an experienced Front-End Engineer with a strong focus on building scalable, high-quality digital experiences using **React**, modern JavaScript, and clean CSS. I enjoy working at the intersection of **engineering, UI architecture, and clarity**—both in code and communication.
+
+## 🧠 What I Do
+
+- Build and transform business requirements into polished **React applications**
+- Design **clean, reusable UI components**
+- Work with **micro-frontend architectures**
+- Improve performance, readability, and user experience
+- Mentor developers and contribute to team-wide best practices
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React, Next.js
+- JavaScript (ES6+), TypeScript
+- HTML5, CSS3 (Flexbox, Sass, Tailwind)
+
+**Backend / APIs**
+- REST APIs, GraphQL
+- Node.js (working knowledge)
+
+**Tools & Platforms**
+- Git & GitHub
+- Webpack, Vite
+- Figma
+- Netlify, Vercel
+
+## 📫 Let’s Connect
+
+If you’re interested in frontend engineering, React discussions, or thoughtful UI design, feel free to connect or explore my repositories.
 <p> 
   <a href="https://www.linkedin.com/in/amrit-gandhi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://medium.com/@aamrits" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
