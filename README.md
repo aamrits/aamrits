@@ -44,7 +44,7 @@ I’m an experienced Front-End Engineer with a strong focus on building scalable
 
 **Backend / APIs**
 - REST APIs, GraphQL
-- Node.js (working knowledge)
+- Node.js
 
 **Tools & Platforms**
 - Git & GitHub
