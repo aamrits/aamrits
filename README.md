@@ -104,6 +104,7 @@ If you’re interested in frontend engineering, React discussions, or thoughtful
 <p> 
   <a href="https://www.linkedin.com/in/amrit-gandhi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="https://medium.com/@aamrits" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a> &nbsp;
-   <a href="https://github.com/aamrits/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> &nbsp;
+  <a href="https://github.com/aamrits/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> &nbsp;
+  <a href="https://aamrits.github.io/" target="_blank"><img src="https://img.shields.io/badge/-My%20Website-6D28D9?style=flat-square&logo=googlechrome&logoColor=white" /></a> &nbsp;
 </p>
 
