@@ -21,6 +21,9 @@ I’m an experienced Front-End Engineer with a strong focus on building scalable
   
   <!-- Next.js -->
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+
+  <!-- Redux -->
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   
   <!-- JavaScript -->
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -39,6 +42,12 @@ I’m an experienced Front-End Engineer with a strong focus on building scalable
   
   <!-- Tailwind CSS -->
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  
+  <!-- Bootstrap -->
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  
+  <!-- Flexbox -->
+  <img alt="Flexbox" src="https://img.shields.io/badge/-Flexbox-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 **Backend / APIs**
@@ -51,18 +60,30 @@ I’m an experienced Front-End Engineer with a strong focus on building scalable
   
   <!-- Node.js -->
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+
+  <!-- Express.js -->
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  
+  <!-- MongoDB -->
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </P>
 
 **Tools & Platforms**
 <p>
   <!-- Git -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+  <!-- Bitbucket -->
+  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
   
   <!-- GitHub -->
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   
   <!-- Webpack -->
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+
+  <!-- ESLint -->
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   
   <!-- Vite -->
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
