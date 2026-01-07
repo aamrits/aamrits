@@ -2,7 +2,7 @@ Hi, I’m Amrit 👋
 
 Frontend Engineer • React • UI-Focused  
 
-I’m an experienced Front-End Engineer who loves building digital experiences. I mostly use **React** and JavaScript. I also enjoy developing clean, minimal UI layouts.
+I’m an experienced Front-End Engineer who loves building digital experiences. I mostly use **React** and **JavaScript**. I also enjoy developing clean, minimal UI layouts.
 
 ## 🧠 What I Do
 
