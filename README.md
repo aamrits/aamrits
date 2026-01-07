@@ -37,6 +37,9 @@ I’m an experienced Front-End Engineer who loves building digital experiences. 
   <!-- CSS3 -->
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   
+  <!-- Flexbox -->
+  <img alt="Flexbox" src="https://img.shields.io/badge/-Flexbox-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  
   <!-- Sass -->
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   
@@ -45,9 +48,6 @@ I’m an experienced Front-End Engineer who loves building digital experiences. 
   
   <!-- Bootstrap -->
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  
-  <!-- Flexbox -->
-  <img alt="Flexbox" src="https://img.shields.io/badge/-Flexbox-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 **Backend / APIs**
@@ -82,14 +82,11 @@ I’m an experienced Front-End Engineer who loves building digital experiences. 
   <!-- Webpack -->
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
 
-  <!-- ESLint -->
-  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-  
   <!-- Vite -->
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   
-  <!-- Figma -->
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <!-- ESLint -->
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   
   <!-- Netlify -->
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
@@ -107,5 +104,4 @@ If you’re interested in Frontend or thoughtful UI designs, feel free to connec
   <a href="https://github.com/aamrits/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> &nbsp;
   <a href="https://aamrits.github.io/" target="_blank"><img src="https://img.shields.io/badge/-My%20Website-6D28D9?style=flat-square&logo=googlechrome&logoColor=white" /></a> &nbsp;
 </p>
-<p>❌ If you have a short attention span or want everything in the form of a quick learning guide and have no patience, please don't bother connecting with me. ❎</p>
 
