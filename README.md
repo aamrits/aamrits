@@ -1,8 +1,8 @@
 Hi, I’m Amrit 👋
 
-Frontend Engineer • React Specialist • UI-Focused Problem Solver  
+Frontend Engineer • React • UI-Focused  
 
-I’m an experienced Front-End Engineer with a strong focus on building scalable, high-quality digital experiences using **React**, modern JavaScript, and clean CSS. I enjoy working at the intersection of **engineering, UI architecture, and clarity**—both in code and communication.
+I’m an experienced Front-End Engineer who loves building digital experiences. I mostly use **React** and JavaScript to build apps. I also enjoy building clean, minimal UI layouts.
 
 ## 🧠 What I Do
 
@@ -100,11 +100,12 @@ I’m an experienced Front-End Engineer with a strong focus on building scalable
 
 ## 📫 Let’s Connect
 
-If you’re interested in frontend engineering, React discussions, or thoughtful UI design, feel free to connect or explore my repositories.
+If you’re interested in Frontend or thoughtful UI designs, feel free to connect or explore my repositories.
 <p> 
   <a href="https://www.linkedin.com/in/amrit-gandhi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="https://medium.com/@aamrits" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a> &nbsp;
   <a href="https://github.com/aamrits/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> &nbsp;
   <a href="https://aamrits.github.io/" target="_blank"><img src="https://img.shields.io/badge/-My%20Website-6D28D9?style=flat-square&logo=googlechrome&logoColor=white" /></a> &nbsp;
 </p>
+<p>❌ If you have a short attention span or want everything in the form of a quick learning guide and have no patience, please don't bother connecting with me. ❎</p>
 
