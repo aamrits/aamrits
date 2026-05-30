@@ -24,6 +24,9 @@ I’m an experienced Front-End Engineer who loves building digital experiences. 
 
   <!-- Redux -->
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+
+  <!-- Zustand -->
+  <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-8B5E3C?style=flat-square&logo=react&logoColor=white" />
   
   <!-- JavaScript -->
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
