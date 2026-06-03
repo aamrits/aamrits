@@ -7,9 +7,13 @@ I’m an experienced Front-End Engineer who loves building digital experiences. 
 ## 🧠 What I Do
 
 🚀 Build modern **React applications**
+
 🧩 Create **reusable and scalable UI components**
+
 🏗️ Work with **micro-frontend architectures**
+
 ⚡ Optimise performance and user experience
+
 🤝 Mentor developers and contribute to team-wide best practices
 
 ## 🛠️ Tech Stack
