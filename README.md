@@ -2,7 +2,7 @@ Hi all, People call me **Amrit** 👋
 
 **Frontend Engineer • React • UI-Focused**
 
-I’m an experienced Front-End Engineer who loves building digital experiences. I mostly use **React** and **JavaScript**. I also enjoy developing clean, minimal UI layouts.
+I enjoy building modern digital experiences with the latest front-end technologies and best practices. I enjoy creating clean, intuitive, and minimal user interfaces.
 
 ## 🧠 What I Do
 
@@ -25,6 +25,9 @@ I’m an experienced Front-End Engineer who loves building digital experiences. 
   
   <!-- Next.js -->
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+
+  <!-- Astro.js -->
+  <img alt="Astro" src="https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
 
   <!-- Redux -->
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -55,6 +58,9 @@ I’m an experienced Front-End Engineer who loves building digital experiences. 
   
   <!-- Bootstrap -->
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+  <!-- Markdown -->
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
 **Backend / APIs**
@@ -94,6 +100,9 @@ I’m an experienced Front-End Engineer who loves building digital experiences. 
   
   <!-- ESLint -->
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+
+  <!-- Cloudflare -->
+  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   
   <!-- Netlify -->
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
